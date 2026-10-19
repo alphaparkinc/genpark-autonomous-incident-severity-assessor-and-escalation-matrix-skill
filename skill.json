@@ -1,0 +1,8 @@
+{
+  "name": "genpark-autonomous-incident-severity-assessor-and-escalation-matrix-skill",
+  "version": "1.0.0",
+  "description": "Autonomous IT incident severity assessor (SEV0-SEV3), SLA breach forecaster, and on-call escalation matrix coordinator",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
